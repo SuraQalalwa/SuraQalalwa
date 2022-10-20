@@ -6,22 +6,12 @@ My interest in computer science started when I began using PV systems software a
 After teaching myself to code for a year, I decided to join Coding Dojo bootcamp to gain the opportunity to work on dev teams, collaborate with others, and to help other students, I learned 3 full stacks within 3 months (MEAN, JAVA, Python), and built many projects using different technologies.
 
 
-Skills: MERN/JavaScript/Python/CSS/HTML
+Skills: MERN/JavaScript/ Python/CSS/HTML
+ 
 
 
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SuraQalalwa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sura-qalalwa-08532814a/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Suraqalalwa/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/20291737/sura-qalalwa)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SuraQalalwa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sura-qalalwa-08532814a/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/SuraQalalwa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Suraqalalwa/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/suraqalalwa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/20291737/sura-qalalwa)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuraQalalwa)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SuraQalalwa&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SuraQalalwa)  
-
-![GitHub metrics](https://metrics.lecoq.io/SuraQalalwa)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SuraQalalwa)  
 
 ![Profile views](https://gpvc.arturio.dev/SuraQalalwa)  
