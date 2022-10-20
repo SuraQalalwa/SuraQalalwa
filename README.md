@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Sura Qalalwa 🦋
+### Hello, I'm Sura Qalalwa!  
 
 I am a self-taught Software Engineer who fell in love with coding! I enjoy learning new technologies. I came from a non-traditional background. I studied Energy Engineering in An-Najah University. I have experience in PV systems design.
 
@@ -8,7 +8,6 @@ After teaching myself to code for a year, I decided to join Coding Dojo bootcamp
 
 Skills: MERN/JavaScript/ Python/CSS/HTML
 
-- 🔭 I’m currently working on this page. 
 - 📫 How to reach me: suraqalalwa@outllok.com 
 
 
